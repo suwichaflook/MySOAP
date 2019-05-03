@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/u5"
+            android:title="ตะกร้าสินค้า" />
+        <item
+            android:id="@+id/nav_address"
+            android:icon="@drawable/s2"
+            android:title="ที่อยู่จัดส่ง" />
+        <item
+            android:id="@+id/nav_status"
+            android:icon="@drawable/s1"
+            android:title="สถานะ" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/s3"
+            android:title="ติดต่อ" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/o4"
+            android:title="เเก้ไขบัญชี" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/s7"
+            android:title="ออกจากระบบ" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597157989089",
+    "firebase_url": "https://mysaop-c8998.firebaseio.com",
+    "project_id": "mysaop-c8998",
+    "storage_bucket": "mysaop-c8998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597157989089:android:bc10297b74e0b76f",
+        "android_client_info": {
+          "package_name": "com.example.mysoap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597157989089-rr8kvhma7r24em8kqck92d4h1a0u1m3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysoap",
+            "certificate_hash": "0c7c200eecd9950a5dd39ae1c38fc388730b748f"
+          }
+        },
+        {
+          "client_id": "597157989089-sanjllifm54csropref0djfvv729tfng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJFS6WIdMN8VKNDp4tj501rtul_IbAsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597157989089-sanjllifm54csropref0djfvv729tfng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
